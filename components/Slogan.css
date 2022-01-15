@@ -1,0 +1,11 @@
+.slogan{
+    color: black;
+    
+    font-size: 12px;
+    font-style: oblique;
+    font-variant: normal;
+    font-variant-position: super;
+    font-stretch: semi-condensed;
+
+    text-align:justify;
+}
